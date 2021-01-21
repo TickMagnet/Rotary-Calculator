@@ -4,7 +4,7 @@
 //                Materials
 //      one breadboard and jumper wires 
 //          one I2C 1602 display
-//        two 10k potentiometeters
+//        two 10k potentiometers
 //               one Arduino 
 //           one programming cable
 
